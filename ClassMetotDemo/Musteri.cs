@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassMetotDemo
 {
+
    public class Musteri
     {
         public int MusteriId { get; set; }
@@ -17,5 +18,6 @@ namespace ClassMetotDemo
         
     }
    
+
 
 }

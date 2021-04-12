@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassMetotDemo
 {
+
     public class MusteriManager
     {
         
@@ -31,6 +32,7 @@ namespace ClassMetotDemo
 
             //}
             Console.WriteLine("Müşteriler listelendi!"+musteri.MusteriAdi);
+
         }
     }
 }
