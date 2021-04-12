@@ -31,7 +31,7 @@ namespace ClassMetotDemo
             //    Console.WriteLine(musteri1.MusteriSoyadi + "\n");
 
             //}
-            Console.WriteLine("Müşteriler listelendi!"+musteri.MusteriAdi);
+            Console.WriteLine("Müşteriler listelendi!");
 
         }
     }
